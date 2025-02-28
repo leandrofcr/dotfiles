@@ -1,0 +1,96 @@
+{
+  "symbols.hidesExplorerArrows": false,
+  "window.titleBarStyle": "custom",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.renderLineHighlight": "all",
+  "workbench.editor.labelFormat": "short",
+  // "workbench.activityBar.location": "hidden",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  // "editor.formatOnSave": true,
+  "gitlens.currentLine.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "eslint.format.enable": true,
+  "editor.rulers": [
+    80,
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "prettier.printWidth": 80,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+    "Formik",
+    "healthcheck"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // "workbench.colorCustomizations": {
+  //   // tokyo night terminal color theme
+  //   "terminal.foreground": "#787c99",
+  //   "terminal.selectionBackground": "#515c7e4d",
+  //   "terminal.ansiBlack": "#363b54",
+  //   "terminal.ansiRed": "#f7768e",
+  //   "terminal.ansiGreen": "#77c3ce",
+  //   // "terminal.ansiGreen": "#79b8ff", // override
+  //   "terminal.ansiYellow": "#e0af68",
+  //   // "terminal.ansiBlue": "#7aa2f7",
+  //   "terminal.ansiBlue": "#b392f0", // override
+  //   "terminal.ansiMagenta": "#bb9af7",
+  //   "terminal.ansiCyan": "#7dcfff",
+  //   "terminal.ansiWhite": "#787c99",
+  //   "terminal.ansiBrightBlack": "#363b54",
+  //   "terminal.ansiBrightRed": "#f7768e",
+  //   "terminal.ansiBrightGreen": "#b392f0",
+  //   "terminal.ansiBrightYellow": "#e0af68",
+  //   "terminal.ansiBrightBlue": "#7aa2f7",
+  //   "terminal.ansiBrightMagenta": "#bb9af7",
+  //   "terminal.ansiBrightCyan": "#7dcfff",
+  //   "terminal.ansiBrightWhite": "#acb0d0",
+  // },
+  "window.customTitleBarVisibility": "auto",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "Key Promoter.loyaltyLevel": 2,
+  "workbench.iconTheme": "symbols",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "terminal.integrated.tabs.enabled": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.mode.active": "review",
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Tokyo Night",
+  "scm.showHistoryGraph": false, //disable Incoming/Outgoing changes graph
+}
